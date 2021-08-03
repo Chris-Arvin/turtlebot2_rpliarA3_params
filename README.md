@@ -1,0 +1,3 @@
+# turtlebot2_rpliarA3_params
+在使用中，发现局部地图没数据，在local_costmap_params.yaml中加入了static层，并且把staitc_map设置为了true。
+在costmap_common_params.yaml中，将inflation_radius设置为了0.3
